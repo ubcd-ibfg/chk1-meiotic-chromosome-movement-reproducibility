@@ -1,0 +1,11 @@
+code,mutant_name,original_AFA_folder_name
+4209,hrs1_t16A,AFA4209_hrs1_t16A
+4229,hrs1_t16A_rdh54,AFA4229_hrs1_t16A_rdh54
+4520,klp6_rdh54,AFA4520_klp6_rdh54
+4539,klp6,AFA4539_klp6
+rdh54,rdh54,AFA732_DV_rdh54
+784,Control,AFA784_WT_DV
+663_latA,Control_latA,AFA663_latA
+663_DF,Control_nolatA,AFA663_DF
+rdh54_latA,rdh54_latA,AFA732_latA
+rdh54_nolatA,rdh54_nolatA,AFA732_DF

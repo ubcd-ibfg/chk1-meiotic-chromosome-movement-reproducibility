@@ -1,0 +1,11 @@
+original_name	new_name	csv_particle_id
+C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 3.Project Maximum Z-1.tif	rad3_cell1.tif	RoiMask_0_C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 3.Project Maximum Z-1.tif:0001-0001-0038:c:1/2 t:1/241 - 1 - Position 3.Project Maximum Z
+C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 4.Project Maximum Z-1.tif	rad3_cell2.tif	RoiMask_0_C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 4.Project Maximum Z-1.tif:0001-0001-0109:c:1/2 t:1/241 - 1 - Position 4.Project Maximum Z
+C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 6.Project Maximum Z-1.tif	rad3_cell3.tif	RoiMask_0_C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 6.Project Maximum Z-1.tif:0001-0001-0112:c:1/2 t:1/241 - 1 - Position 6.Project Maximum Z
+C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 8.Project Maximum Z-1.tif	rad3_cell4.tif	RoiMask_0_C1-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 8.Project Maximum Z-1.tif:0001-0001-0109:c:1/2 t:1/241 - 1 - Position 8.Project Maximum Z
+C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 2.Project Maximum Z-1.tif	rad3_cell5.tif	RoiMask_0_C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 2.Project Maximum Z-1.tif:0001-0001-0054:c:1/2 t:1/241 - 1 - Position 2.Project Maximum Z
+C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 3.Project Maximum Z-1.tif	rad3_cell6.tif	RoiMask_0_C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 3.Project Maximum Z-1.tif:0001-0001-0087:c:1/2 t:1/241 - 1 - Position 3.Project Maximum Z
+C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 4.Project Maximum Z-1.tif	rad3_cell7.tif	RoiMask_0_C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 4.Project Maximum Z-1.tif:0001-0001-0071:c:1/2 t:1/241 - 1 - Position 4.Project Maximum Z
+C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 8.Project Maximum Z-1.tif	rad3_cell8.tif	RoiMask_0_C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 8.Project Maximum Z-1.tif:0001-0001-0102:c:1/2 t:1/241 - 1 - Position 8.Project Maximum Z
+C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 9.Project Maximum Z-1.tif	rad3_cell9.tif	RoiMask_0_C1-TL103_SABAS_AFA703_MAX_.sld - 1 - Position 9.Project Maximum Z-1.tif:0001-0001-0089:c:1/2 t:1/241 - 1 - Position 9.Project Maximum Z
+C2-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 2.Project Maximum Z-1.tif	rad3_cell10.tif	RoiMask_0_C2-TL101_SABAS_AFA703_MAX_.sld - 1 - Position 2.Project Maximum Z-1.tif:0001-0001-0119:c:1/2 t:1/241 - 1 - Position 2.Project Maximum Z

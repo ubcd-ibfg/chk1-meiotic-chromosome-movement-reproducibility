@@ -1,0 +1,11 @@
+original_name	new_name	csv_particle_id
+786_01_7_R3D_PRJ-1.tif	Control_cell1.tif	ROIMask_0_786_01_7
+786_01_8_R3D_PRJ-2.tif	Control_cell2.tif	ROIMask_0_786_01_8
+wt02_2_R3D_01_PRJ-1.tif	Control_cell3.tif	ROIMask_0_wt02_2
+wt02_6_R3D_01_PRJ-1.tif	Control_cell4.tif	ROIMask_0_wt02_6
+wt_02_10_R3D_PRJ-1.tif	Control_cell5.tif	ROIMask_0_wt_02_10
+784_01_11.tif	Control_cell6.tif	ROIMask_0_784_01_11
+784_01_3.tif	Control_cell7.tif	ROIMask_0_784_01_3
+784_01_8.tif	Control_cell8.tif	ROIMask_0_784_01_8
+784_02_3.tif	Control_cell9.tif	ROIMask_0_784_02_3
+784_02_8.tif	Control_cell10.tif	ROIMask_0_784_02_8

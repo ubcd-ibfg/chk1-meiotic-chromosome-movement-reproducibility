@@ -1,0 +1,11 @@
+original_name	new_name	csv_particle_id
+MAX_663 y 300 TL after latA_cel1.tif	Control_latA_cell1.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel1.tif:0001-0001-0096:1
+MAX_663 y 300 TL after latA_cel10.tif	Control_latA_cell2.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel10.tif:0001-0001-0093:1
+MAX_663 y 300 TL after latA_cel4.tif	Control_latA_cell3.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel4.tif:0001-0001-0052:1
+MAX_663 y 300 TL after latA_cel5.tif	Control_latA_cell4.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel5.tif:0001-0001-0091:1
+MAX_663 y 300 TL after latA_cel6.tif	Control_latA_cell5.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel6.tif:0001-0001-0071:1
+MAX_663 y 300 TL after latA_cel8.tif	Control_latA_cell6.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel8.tif:0001-0001-0120:1
+MAX_663 y 300 TL after latA_cel9.tif	Control_latA_cell7.tif	ROIMask_0_MAX_663 y 300 TL after latA_cel9.tif:0008-0001-0108:8
+MAX_663 y 300 despues latA_2.- CFP_Confocal_F01.tif	Control_latA_cell8.tif	ROIMask_0_MAX_663 y 300 despues latA_2.- CFP_Confocal_F01.tif:0001-0001-0057:1
+MAX_663 y 300 despues latA_2.- CFP_Confocal_F02.tif	Control_latA_cell9.tif	ROIMask_0_MAX_663 y 300 despues latA_2.- CFP_Confocal_F02.tif:0001-0001-0066:1
+MAX_663 y 300 despues latA_2.- CFP_Confocal_F05.ims - 663 y 300 despues latA_2.- CFP_Confocal_F05.tif	Control_latA_cell10.tif	ROIMask_0_MAX_663 y 300 despues latA_2.- CFP_Confocal_F05.ims - 663 y 300 despues latA_2.- CFP_Confocal_F05.tif:0001-0001-0095:1

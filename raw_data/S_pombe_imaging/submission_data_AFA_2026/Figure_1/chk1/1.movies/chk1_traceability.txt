@@ -1,0 +1,10 @@
+original_name	new_name	csv_particle_id
+031023_4_R3D_PRJ-1.tif	chk1_cell1.tif	ROIMask_0_031023_4
+031023_5_R3D_PRJ-1.tif	chk1_cell2.tif	ROIMask_0_031023_5
+031023_6_R3D_PRJ-1.tif	chk1_cell3.tif	ROIMask_0_031023_6
+280923_3_R3D_PRJ-1.tif	chk1_cell4.tif	ROIMask_0_280923_3
+280923_4_R3D_PRJ-1.tif	chk1_cell5.tif	ROIMask_0_280923_4
+4213_chk1_240422_01_02_R3D_PRJ-1.tif	chk1_cell6.tif	ROIMask_0_4213_chk1_240422_01_02_03
+4213_chk1_240422_01_05_R3D_PRJ-1.tif	chk1_cell7.tif	ROIMask_0_4213_chk1_240422_01_05
+4213_chk1_240422_01_09_R3D_PRJ-1.tif	chk1_cell8.tif	ROIMask_0_4213_chk1_240422_01_09
+4213_chk1_240422_01_14_R3D_PRJ-1.tif	chk1_cell9.tif	ROIMask_0_4213_chk1_240422_01_14

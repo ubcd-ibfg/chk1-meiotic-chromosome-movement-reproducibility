@@ -1,0 +1,5 @@
+code,strain,motifA_mutant,motifA_control,motifC_mutant,motifC_control,N_cells,windows
+663_latA,Control_latA,7,17,6,0,10,89.17
+rdh54_latA,rdh54_latA,13,36,2,1,10,113.75
+rdh54_nolatA,rdh54_nolatA,8,18,2,0,10,51.58
+663_DF,Control_nolatA,,23.67,,0.33,10,32.75

@@ -1,0 +1,11 @@
+original_name	new_name	csv_particle_id
+MAX_TL3_AFA663_2._21_F1.tif	Control_nolatA_cell1.tif	ROIMask_0_MAX_TL3_AFA663_2._21_F1.tif:0001-0001-0039:1
+MAX_TL3_AFA663_2._21_F41.tif	Control_nolatA_cell2.tif	ROIMask_0_MAX_TL3_AFA663_2._21_F41.tif:0001-0001-0054:1
+MAX_TL3_AFA663_2._21_F42.tif	Control_nolatA_cell3.tif	ROIMask_0_MAX_TL3_AFA663_2._21_F42.tif:0001-0001-0071:1
+MAX_TL3_AFA663_2._21_F61.tif	Control_nolatA_cell4.tif	ROIMask_0_MAX_TL3_AFA663_2._21_F61.tif:0023-0001-0066:23
+MAX_hht1-cfp_2.- CFP_Confocal_14_F00.ims - hht1-cfp_2.- CFP_Confocal_14_F00.ims Resolution Level 1-2_cel1.tif	Control_nolatA_cell5.tif	ROIMask_0_MAX_hht1-cfp_2.- CFP_Confocal_14_F00.ims - hht1-cfp_2.- CFP_Confocal_14_F00.ims Resolution Level 1-2_cel1.tif:0001-0001-0082:1
+MAX_hht1-cfp_2.- CFP_Confocal_14_F00.ims - hht1-cfp_2.- CFP_Confocal_14_F00.ims Resolution Level 1-2_cel2.tif	Control_nolatA_cell6.tif	ROIMask_0_MAX_hht1-cfp_2.- CFP_Confocal_14_F00.ims - hht1-cfp_2.- CFP_Confocal_14_F00.ims Resolution Level 1-2_cel2.tif:0001-0001-0083:1
+MAX_hht1-cfp_2.- CFP_Confocal_14_F01.ims - hht1-cfp_2.- CFP_Confocal_14_F01.ims Resolution Level 1-3_cel1.tif	Control_nolatA_cell7.tif	ROIMask_0_MAX_hht1-cfp_2.- CFP_Confocal_14_F01.ims - hht1-cfp_2.- CFP_Confocal_14_F01.ims Resolution Level 1-3_cel1.tif:0001-0001-0070:1
+MAX_hht1-cfp_2.- CFP_Confocal_14_F02.ims - hht1-cfp_2.- CFP_Confocal_14_F02.ims Resolution Level 1-2_cel1.tif	Control_nolatA_cell8.tif	ROIMask_0_MAX_hht1-cfp_2.- CFP_Confocal_14_F02.ims - hht1-cfp_2.- CFP_Confocal_14_F02.ims Resolution Level 1-2_cel1.tif:0001-0001-0044:1
+MAX_hht1-cfp_2.- CFP_Confocal_14_F03.ims - hht1-cfp_2.- CFP_Confocal_14_F03.ims Resolution Level 1-1_cel1_rara.tif	Control_nolatA_cell9.tif	ROIMask_0_MAX_hht1-cfp_2.- CFP_Confocal_14_F03.ims - hht1-cfp_2.- CFP_Confocal_14_F03.ims Resolution Level 1-1_cel1_rara.tif:0001-0001-0048:1
+MAX_hht1-cfp_2.- CFP_Confocal_14_F04.ims - hht1-cfp_2.- CFP_Confocal_14_F04.ims Resolution Level 1-2_cel1.tif	Control_nolatA_cell10.tif	ROIMask_0_MAX_hht1-cfp_2.- CFP_Confocal_14_F04.ims - hht1-cfp_2.- CFP_Confocal_14_F04.ims Resolution Level 1-2_cel1.tif:0001-0001-0056:1

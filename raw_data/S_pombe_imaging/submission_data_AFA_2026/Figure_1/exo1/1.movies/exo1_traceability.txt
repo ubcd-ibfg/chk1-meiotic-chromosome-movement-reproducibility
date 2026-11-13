@@ -1,0 +1,12 @@
+original_name	new_name	csv_particle_id
+MAX_tl90_AFA672.sld - 1 - Position 3.tif	exo1_cell1.tif	RoiMask_0_MAX_tl90_AFA672.sld - 1 - Position 3.tif:0001-0001-0126:1
+MAX_tl90_AFA672.sld - 1 - Position 6.tif	exo1_cell2.tif	RoiMask_0_MAX_tl90_AFA672.sld - 1 - Position 6.tif:0001-0001-0089:1
+MAX_tl90_AFA672.sld - 1 - Position 7.tif	exo1_cell3.tif	RoiMask_0_MAX_tl90_AFA672.sld - 1 - Position 7.tif:0001-0001-0079:1
+MAX_tl91_AFA672.sld - 1 - Position 8.tif	exo1_cell4.tif	RoiMask_0_MAX_tl91_AFA672.sld - 1 - Position 8.tif:0002-0001-0062:2
+MAX_tl93.sld - 1 - Position 10-1.tif	exo1_cell5.tif	RoiMask_0_MAX_tl93.sld - 1 - Position 10-1.tif:0001-0001-0092:1
+MAX_tl93.sld - 1 - Position 2-1.tif	exo1_cell6.tif	RoiMask_0_MAX_tl93.sld - 1 - Position 2-1.tif:0001-0001-0086:1
+MAX_tl94.sld - 1 - Position 2-1.tif	exo1_cell7.tif	RoiMask_0_MAX_tl94.sld - 1 - Position 2-1.tif:0001-0001-0087:1
+MAX_tl94.sld - 1 - Position 4-1.tif	exo1_cell8.tif	RoiMask_0_MAX_tl94.sld - 1 - Position 4-1.tif:0001-0001-0112:1
+MAX_tl94.sld - 1 - Position 8-1.tif	exo1_cell9.tif	RoiMask_0_MAX_tl94.sld - 1 - Position 8-1.tif:0001-0001-0045:1
+MAX_tl94.sld - 1 - Position 9-1.tif	exo1_cell10.tif	RoiMask_0_MAX_tl94.sld - 1 - Position 9-1.tif:0001-0001-0068:1
+MAX_tl94.sld - 1 - Position 9-2.tif	exo1_cell11.tif	RoiMask_0_MAX_tl94.sld - 1 - Position 9-2.tif:0001-0001-0038:1

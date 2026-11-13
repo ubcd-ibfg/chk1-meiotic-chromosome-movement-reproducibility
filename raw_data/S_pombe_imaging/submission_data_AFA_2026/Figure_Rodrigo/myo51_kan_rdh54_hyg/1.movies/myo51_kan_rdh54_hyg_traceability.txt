@@ -1,0 +1,13 @@
+original_name	new_name	csv_particle_id
+TL1_Rodrigo_AFA3767_F2_Pmax-2.tif	myo51_kan_rdh54_hyg_cell1.tif	ROIMask_0_TL1_Rodrigo_AFA3767_F2_Pmax-2.tif:0001-0001-0087:1
+TL1_Rodrigo_AFA3767_F3_Pmax-2.tif	myo51_kan_rdh54_hyg_cell2.tif	ROIMask_0_TL1_Rodrigo_AFA3767_F3_Pmax-2.tif:0001-0001-0048:1
+TL1_Rodrigo_AFA3767_F42_Pmax-2.tif	myo51_kan_rdh54_hyg_cell3.tif	ROIMask_0_TL1_Rodrigo_AFA3767_F42_Pmax-2.tif:0001-0001-0091:1
+TL1_Rodrigo_AFA3767_F5_Pmax-1.tif	myo51_kan_rdh54_hyg_cell4.tif	ROIMask_0_TL1_Rodrigo_AFA3767_F5_Pmax-1.tif:0001-0001-0080:1
+TL2_Rodrigo_AFA3767_2.- CFP_Confocal_F0_Pmax-2.tif	myo51_kan_rdh54_hyg_cell5.tif	ROIMask_0_TL2_Rodrigo_AFA3767_2.- CFP_Confocal_F0_Pmax-2.tif:0001-0001-0051:1
+TL2_Rodrigo_AFA3767_2.- CFP_Confocal_F1_Pmax-2.tif	myo51_kan_rdh54_hyg_cell6.tif	ROIMask_0_TL2_Rodrigo_AFA3767_2.- CFP_Confocal_F1_Pmax-2.tif:0001-0001-0075:1
+TL2_Rodrigo_AFA3767_2.- CFP_Confocal_F4_Pmax-2.tif	myo51_kan_rdh54_hyg_cell7.tif	ROIMask_0_TL2_Rodrigo_AFA3767_2.- CFP_Confocal_F4_Pmax-2.tif:0001-0001-0096:1
+TL3_Rodrigo_AFA3767_19.24.51_F01_Pmax-2.tif	myo51_kan_rdh54_hyg_cell8.tif	ROIMask_0_TL3_Rodrigo_AFA3767_19.24.51_F01_Pmax-2.tif:0001-0001-0078:1
+TL3_Rodrigo_AFA3767_19.24.51_F03_Pmax-2.tif	myo51_kan_rdh54_hyg_cell9.tif	ROIMask_0_TL3_Rodrigo_AFA3767_19.24.51_F03_Pmax-2.tif:0001-0001-0083:1
+TL3_Rodrigo_AFA3767_19.24.51_F041_Pmax-1.tif	myo51_kan_rdh54_hyg_cell10.tif	ROIMask_0_TL3_Rodrigo_AFA3767_19.24.51_F041_Pmax-1.tif:0001-0001-0057:1
+TL3_Rodrigo_AFA3767_19.24.51_F042_Pmax-2.tif	myo51_kan_rdh54_hyg_cell11.tif	ROIMask_0_TL3_Rodrigo_AFA3767_19.24.51_F042_Pmax-2.tif:0001-0001-0095:1
+TL3_Rodrigo_AFA3767_19.24.51_F092_Pmax-2.tif	myo51_kan_rdh54_hyg_cell12.tif	ROIMask_0_TL3_Rodrigo_AFA3767_19.24.51_F092_Pmax-2.tif:0001-0001-0051:1

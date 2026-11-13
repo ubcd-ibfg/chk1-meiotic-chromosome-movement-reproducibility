@@ -1,0 +1,15 @@
+original_name	new_name	csv_particle_id
+MAX_STL9_Maria_AFA1366_2-1.tif	rec8_cell1.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_2-1.tif:0001-0001-0087:1
+MAX_STL9_Maria_AFA1366_2-2.tif	rec8_cell2.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_2-2.tif:0001-0001-0046:1
+MAX_STL9_Maria_AFA1366_3-1.tif	rec8_cell3.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_3-1.tif:0001-0001-0113:1
+MAX_STL9_Maria_AFA1366_4-1.tif	rec8_cell4.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_4-1.tif:0001-0001-0065:1
+MAX_STL9_Maria_AFA1366_7-1.tif	rec8_cell5.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_7-1.tif:0001-0001-0066:1
+MAX_STL9_Maria_AFA1366_8-1.tif	rec8_cell6.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_8-1.tif:0001-0001-0102:1
+MAX_STL9_Maria_AFA1366_8-2.tif	rec8_cell7.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_8-2.tif:0001-0001-0111:1
+MAX_STL9_Maria_AFA1366_9-1.tif	rec8_cell8.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_9-1.tif:0001-0001-0089:1
+MAX_STL9_Maria_AFA1366_9-2.tif	rec8_cell9.tif	RoiMask_0_MAX_STL9_Maria_AFA1366_9-2.tif:0001-0001-0065:1
+MAX_STL11_Maria_AFA1366_10-1.tif	rec8_cell10.tif	RoiMask_0_MAX_STL11_Maria_AFA1366_10-1.tif:0001-0001-0095:1
+MAX_STL11_Maria_AFA1366_4-1.tif	rec8_cell11.tif	RoiMask_0_MAX_STL11_Maria_AFA1366_4-1.tif:0001-0001-0094:1
+MAX_STL11_Maria_AFA1366_4-12.tif	rec8_cell12.tif	RoiMask_0_MAX_STL11_Maria_AFA1366_4-2.tif:0001-0001-0095:1
+MAX_STL11_Maria_AFA1366_8-1.tif	rec8_cell13.tif	RoiMask_0_MAX_STL11_Maria_AFA1366_8-1.tif:0001-0001-0040:1
+MAX_STL11_Maria_AFA1366_10-2.tif	rec8_cell14.tif	RoiMask_0_MAX_STL11_Maria_AFA1366_10-2.tif:0001-0001-0105:1

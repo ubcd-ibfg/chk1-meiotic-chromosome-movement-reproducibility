@@ -1,0 +1,7 @@
+code,strain,motifA_mutant,motifA_control,motifC_mutant,motifC_control,N_cells,windows
+4209,hrs1_t16A,9,23,4,0,10,101.25
+4229,hrs1_t16A_rdh54,7,10,2,1,10,76.92
+4520,klp6_rdh54,8,12,3,1,10,62.58
+4539,klp6,0,0,0,0,10,37.25
+732,rdh54,11,14,10,2,10,48.75
+784,Control,,14.75,,1,10,44.92

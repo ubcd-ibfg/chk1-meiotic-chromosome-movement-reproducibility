@@ -1,0 +1,7 @@
+code,mutant_name,original_AFA_folder_name
+4250,rdh54_chk1,AFA4250_rdh54_chk1
+764,rdh54_rad3,AFA764_rdh54_rad3
+768,rdh54_cds1,AFA768_rdh54_cds1
+776,rdh54_rec12,AFA776_rdh54_rec12
+732,rdh54,AFA732_DV_rdh54
+784,Control,AFA784_WT_DV

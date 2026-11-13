@@ -1,0 +1,11 @@
+original_name	new_name	csv_particle_id
+4209_250128_04_07_R3D_PRJ-1.tif	hrs1_t16A_cell1.tif	AFA4209_cell1.tif
+AFA4209_190923_1_R3D_PRJ-2.tif	hrs1_t16A_cell2.tif	AFA4209_cell2.tif
+AFA4209_190923_3_R3D_PRJ-1.tif	hrs1_t16A_cell3.tif	AFA4209_cell3.tif
+4209_250128_04_13_R3D_PRJ-1.tif	hrs1_t16A_cell4.tif	AFA4209_cell4.tif
+AFA4209_140923_1_R3D_PRJ-1.tif	hrs1_t16A_cell5.tif	AFA4209_cell5.tif
+4209_250128_04_05_R3D_PRJ-1.tif	hrs1_t16A_cell6.tif	AFA4209_cell6.tif
+4209_241113_01_4_R3D_PRJ-1.tif	hrs1_t16A_cell7.tif	AFA4209_cell7.tif
+AFA4209_140923_3_R3D_PRJ-2.tif	hrs1_t16A_cell8.tif	AFA4209_cell8.tif
+AFA4209_140923_6_R3D_PRJ-1.tif	hrs1_t16A_cell9.tif	AFA4209_cell9.tif
+AFA4209_190923_6_R3D_PRJ-1.tif	hrs1_t16A_cell10.tif	AFA4209_cell10.tif

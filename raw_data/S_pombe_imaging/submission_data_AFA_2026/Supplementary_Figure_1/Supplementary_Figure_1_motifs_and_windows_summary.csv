@@ -1,0 +1,5 @@
+code,strain,motifA_mutant,motifA_control,motifC_mutant,motifC_control,N_cells,windows
+663HU,HU,8,8,6,1,10,64.83
+663MMS,MMS,16,17,7,1,16,115.33
+663ZEO,ZEO,9,5,2,4,9,54.25
+663,Control,,10,,2,12,83.42

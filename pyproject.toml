@@ -1,0 +1,31 @@
+# Environment for the reproducibility package of Camacho-Cabañas et al.
+# The versions are pinned exactly: Supp. Fig. 2 (StratifiedGroupKFold folds) and Fig. 5B/5C depend on the
+# scikit-learn version, and the published values are reproduced only with scikit-learn 1.9.1 on Python 3.11.
+#
+# With uv (recommended; uses uv.lock for every transitive dependency, on Linux, macOS and Windows):
+#     uv sync --locked
+#     cd code && bash run_all.sh
+# With pip:
+#     python3.11 -m venv .venv && .venv/bin/pip install -r requirements.txt
+
+[project]
+name = "chk1-meiotic-chromosome-movement-reproducibility"
+version = "1.0.0"
+description = "Code and environment that regenerate the quantitative figures, Source Data and Supplementary Table 1 (Series 1) of Camacho-Cabanas et al."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy==2.4.6",
+    "pandas==3.1.1",
+    "scipy==1.17.1",
+    "scikit-learn==1.9.1",
+    "matplotlib==3.11.2",
+    "networkx==3.6.1",
+    "joblib==1.6.0",
+    "openpyxl==3.1.5",
+    "tifffile==2026.3.3",
+]
+
+[tool.uv]
+# This folder is a collection of analysis scripts, not an installable package.
+package = false

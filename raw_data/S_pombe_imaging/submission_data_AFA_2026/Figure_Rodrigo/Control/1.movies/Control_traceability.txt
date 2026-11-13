@@ -1,0 +1,11 @@
+original_name	new_name	csv_particle_id
+TL2_Rodrigo_AFA4459_F021_Pmax-1.tif	Control_cell1.tif	ROIMask_0_TL2_Rodrigo_AFA4459_F021_Pmax-1.tif:0001-0001-0052:1
+TL2_Rodrigo_AFA4459_F031_Pmax-1.tif	Control_cell2.tif	ROIMask_0_TL2_Rodrigo_AFA4459_F031_Pmax-1.tif:0001-0001-0058:1
+TL2_Rodrigo_AFA4459_F04_Pmax-2.tif	Control_cell3.tif	ROIMask_0_TL2_Rodrigo_AFA4459_F04_Pmax-2.tif:0001-0001-0096:1
+TL2_Rodrigo_AFA4459_F06_Pmax-3.tif	Control_cell4.tif	ROIMask_0_TL2_Rodrigo_AFA4459_F06_Pmax-3.tif:0001-0001-0098:1
+TL2_Rodrigo_AFA4459_F07_Pmax-2.tif	Control_cell5.tif	ROIMask_0_TL2_Rodrigo_AFA4459_F07_Pmax-2.tif:0001-0001-0123:1
+TL3_Rodrigo_AFA4459_19.01.59_F001_Pmax-1.tif	Control_cell6.tif	ROIMask_0_TL3_Rodrigo_AFA4459_19.01.59_F001_Pmax-1.tif:0002-0001-0016:2
+TL3_Rodrigo_AFA4459_19.01.59_F02_Pmax-1.tif	Control_cell7.tif	ROIMask_0_TL3_Rodrigo_AFA4459_19.01.59_F02_Pmax-1.tif:0001-0001-0052:1
+TL3_Rodrigo_AFA4459_19.01.59_F06_Pmax-2.tif	Control_cell8.tif	ROIMask_0_TL3_Rodrigo_AFA4459_19.01.59_F06_Pmax-2.tif:0001-0001-0062:1
+TL3_Rodrigo_AFA4459_19.01.59_F07_Pmax-1.tif	Control_cell9.tif	ROIMask_0_TL3_Rodrigo_AFA4459_19.01.59_F07_Pmax-1.tif:0001-0001-0106:1
+TL3_Rodrigo_AFA4459_19.01.59_F09_Pmax-2.tif	Control_cell10.tif	ROIMask_0_TL3_Rodrigo_AFA4459_19.01.59_F09_Pmax-2.tif:0001-0001-0056:1
