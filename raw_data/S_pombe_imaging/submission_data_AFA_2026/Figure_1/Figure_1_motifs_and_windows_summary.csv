@@ -9,7 +9,7 @@ code,strain,motifA_mutant,motifA_control,motifC_mutant,motifC_control,N_cells,wi
 714,rec12,9,17,1,1,10,63.92
 724,fml1,2,10,2,1,11,54.92
 727,dsk1,3,7,3,2,13,68.5
-732,rdh54,9,16,12,0,12,80.42
+732,rdh54,3,7,12,0,12,80.42
 1366,rec8,4,5,5,1,14,101.25
 4213,chk1,5,13,2,2,9,33.75
 663,Control,,13.62,,1.31,12,83.42
