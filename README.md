@@ -1,8 +1,6 @@
 # chk1-meiotic-chromosome-movement-reproducibility
 ### Camacho-Cabañas et al. – *DNA damage signalling reprogrammes meiotic chromosome movement through Chk1*
 
-[![DOI](https://zenodo.org/badge/1456443708.svg)](https://doi.org/10.5281/zenodo.24192729)
-
 This folder contains everything needed to regenerate every quantitative panel, the Source Data and the Series 1 rows of Supplementary Table 1 from the original data. The raw data are unmodified.
 
 ## Folder layout
@@ -161,3 +159,19 @@ Folder layout note: `code/` also contains `run_all.sh`/`run_all_fixed.sh`; the `
 | 4 | Nikon Ti2 E / Andor Dragonfly | `Figure_Microtubules_Actin/` (latrunculin A) | Fig. 4D, E |
 
 
+
+## Citation
+
+If you use this code or data, please cite it as below (see also [`CITATION.cff`](CITATION.cff)):
+
+> Pinto Cruz, J., & Fernández-Álvarez, A. (2026). *chk1-meiotic-chromosome-movement-reproducibility* (v0.1.1) [Computer software]. https://github.com/ubcd-ibfg/chk1-meiotic-chromosome-movement-reproducibility
+
+```bibtex
+@software{chk1_reproducibility_2026,
+  author  = {Pinto Cruz, Jesús and Fernández-Álvarez, Alfonso},
+  title   = {chk1-meiotic-chromosome-movement-reproducibility},
+  version = {0.1.1},
+  year    = {2026},
+  url     = {https://github.com/ubcd-ibfg/chk1-meiotic-chromosome-movement-reproducibility}
+}
+```

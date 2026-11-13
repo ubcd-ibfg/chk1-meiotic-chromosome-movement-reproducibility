@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "chk1-meiotic-chromosome-movement-reproducibility"
+abstract: "Code and data to regenerate every quantitative panel, the Source Data and the Series 1 rows of Supplementary Table 1 of Camacho-Cabañas et al., 'DNA damage signalling reprogrammes meiotic chromosome movement through Chk1'."
+version: 0.1.1
+date-released: 2026-11-13
+repository-code: "https://github.com/ubcd-ibfg/chk1-meiotic-chromosome-movement-reproducibility"
+authors:
+  - family-names: "Pinto Cruz"
+    given-names: "Jesús"
+    orcid: "https://orcid.org/0000-0002-2497-6783"
+    affiliation: "Instituto de Biología Funcional y Genómica (IBFG), CSIC/USAL"
+  - family-names: "Fernández-Álvarez"
+    given-names: "Alfonso"
+    orcid: "https://orcid.org/0000-0002-7455-1425"
+    affiliation: "Instituto de Biología Funcional y Genómica (IBFG), CSIC/USAL"
+    email: "alfonso.fernandez.alvarez@csic.es"

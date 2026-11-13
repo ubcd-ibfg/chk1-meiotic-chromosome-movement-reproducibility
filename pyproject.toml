@@ -10,7 +10,7 @@
 
 [project]
 name = "chk1-meiotic-chromosome-movement-reproducibility"
-version = "1.0.0"
+version = "0.1.1"
 description = "Code and environment that regenerate the quantitative figures, Source Data and Supplementary Table 1 (Series 1) of Camacho-Cabanas et al."
 readme = "README.md"
 requires-python = ">=3.11"
