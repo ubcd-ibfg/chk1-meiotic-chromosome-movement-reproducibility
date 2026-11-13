@@ -1,6 +1,8 @@
 # chk1-meiotic-chromosome-movement-reproducibility
 ### Camacho-Cabañas et al. – *DNA damage signalling reprogrammes meiotic chromosome movement through Chk1*
 
+[![DOI](https://zenodo.org/badge/1456443708.svg)](https://doi.org/10.5281/zenodo.24192729)
+
 This folder contains everything needed to regenerate every quantitative panel, the Source Data and the Series 1 rows of Supplementary Table 1 from the original data. The raw data are unmodified.
 
 ## Folder layout
